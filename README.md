@@ -1,6 +1,6 @@
  # Hi I'm Kübra 👋
  
- ### I'm a computer engineer
+ ### I'm a Computer Engineer.I am currently developing myself in java.
 
 
 <!--
