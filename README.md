@@ -1,4 +1,6 @@
- Hi I'm Kübra 👋
+ ### Hi I'm Kübra 👋
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kubracelikk/)
 
 <!--
 **kubracelikk/kubracelikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
