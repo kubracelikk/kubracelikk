@@ -1,8 +1,9 @@
  # Hi I'm Kübra 👋
  
- ### I'm a Computer Engineer.I am currently developing myself in java.
+ ### I'm a Computer Engineer.I am currently developing myself in Java.
 
-
+Connect with me:
+https://www.linkedin.com/in/kubracelikk/
 <!--
 **kubracelikk/kubracelikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
