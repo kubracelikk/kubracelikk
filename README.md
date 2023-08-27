@@ -1,7 +1,8 @@
  # Hi I'm Kübra 👋
  
  ### I'm a Computer Engineer.I am currently developing myself in Java.
- 
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubracelikk&label=Profile%20views&color=0e75b6&style=flat" alt="kubracelikk" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
